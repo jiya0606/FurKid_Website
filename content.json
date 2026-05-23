@@ -1,0 +1,390 @@
+{
+  "_comment": "This file holds ALL editable text and images for the Furkid Rescue website. Nontechnical owners: edit this file (or give it to ChatGPT with CONTENT-GUIDE.xlsx) to update the site. DO NOT rename the 'keys' (the words in quotes before the colons). ONLY change the 'values' (the text after the colons).",
+
+  "site": {
+    "brand_name": "Furkid Rescue",
+    "tagline": "A foster-based dog and cat no-kill rescue organization based in Pittsburgh, Western Pennsylvania.",
+    "email": "info@furkidrescue.org",
+    "city_state": "Pittsburgh, PA",
+    "nonprofit_status": "501(c)(3) Non-Profit",
+    "ein": "XX-XXXXXXX",
+    "copyright_year": "2026",
+    "instagram_url": "#",
+    "facebook_url": "#",
+    "instagram_handle": "@furkidrescue",
+    "paypal_donate_url": "#",
+    "amazon_wishlist_url": "#",
+    "venmo_handle": "@FurkidRescue",
+    "zelle_email": "donate@furkidrescue.org",
+    "check_mailing_address": "Mail to Furkid Rescue, Pittsburgh, PA"
+  },
+
+  "home": {
+    "hero_badge": "Foster-Based Rescue",
+    "hero_title_part1": "Every Furkid Deserves a",
+    "hero_title_highlight": "Loving Home",
+    "hero_description": "Furkid Rescue is a no-kill rescue organization in Pittsburgh, PA dedicated to saving dogs and cats from life-threatening situations and finding them the loving homes they deserve.",
+    "hero_button_primary": "Meet Our Pets",
+    "hero_button_secondary": "Support Our Mission",
+    "hero_image": "assets/images/hero.jpg",
+    "hero_image_alt": "A rescued dog sitting happily with its new owner",
+    "hero_stat_number": "500+",
+    "hero_stat_label": "Pets Rescued",
+
+    "stats": [
+      { "icon": "paw",   "number": "500+", "label": "Pets Rescued" },
+      { "icon": "home",  "number": "120+", "label": "Foster Homes" },
+      { "icon": "users", "number": "200+", "label": "Volunteers" },
+      { "icon": "heart", "number": "450+", "label": "Happy Adoptions" }
+    ],
+
+    "featured_title": "Featured Furkids",
+    "featured_subtitle": "These sweet pets are looking for their forever homes. Could you be their perfect match?",
+    "featured_view_all": "View All Available Pets",
+
+    "mission_image": "assets/images/mission.jpg",
+    "mission_image_alt": "A volunteer hugging a rescued dog outdoors",
+    "mission_title": "Our Mission",
+    "mission_paragraphs": [
+      "Furkid Rescue saves unwanted dogs and cats by rescuing them from life-threatening situations, getting them the medical treatment they need, and finding the best adoptive homes possible.",
+      "As a foster-based organization, every animal in our care lives in a real home with a loving foster family while they wait for adoption. This allows us to truly understand each pet's personality and find the best match."
+    ],
+    "mission_tags": ["No-Kill", "Foster-Based", "501(c)(3)", "Pittsburgh, PA"],
+
+    "cta_title": "Ready to Make a Difference?",
+    "cta_description": "Whether you adopt, foster, volunteer, or donate — every action helps save a life. Join the Furkid Rescue community today.",
+    "cta_button_secondary": "Ways to Help",
+    "cta_button_primary": "Donate Now",
+
+    "instagram_title": "Follow Along on Instagram",
+    "instagram_subtitle": "Stay up-to-date with all of our latest rescues and success stories.",
+    "instagram_images": [
+      "assets/images/ig1.jpg",
+      "assets/images/ig2.jpg",
+      "assets/images/ig3.jpg",
+      "assets/images/ig4.jpg",
+      "assets/images/ig5.jpg",
+      "assets/images/ig6.jpg"
+    ]
+  },
+
+  "adopt": {
+    "hero_title": "Adopt a Furkid",
+    "hero_subtitle": "Learn how you can adopt rescued dogs and cats from Furkid Rescue. We try to keep a complete listing of all available Furkids up-to-date here.",
+    "note_title": "Note:",
+    "note_text": "Not all of our available pets may be listed here. For the most up-to-date listings, follow us on",
+    "note_link_text": "Instagram",
+    "note_link_url": "#",
+    "note_text_tail": "or contact us directly at",
+    "pets": [
+      {
+        "name": "Biscuit",
+        "type": "Dog",
+        "breed": "Labrador Mix",
+        "age": "2 years",
+        "sex": "Male",
+        "description": "A sweet, playful boy who loves belly rubs and long walks. Great with kids and other dogs.",
+        "image": "assets/images/pet-biscuit.jpg",
+        "status": "Available",
+        "sponsor_url": "#",
+        "adopt_info_url": "#"
+      },
+      {
+        "name": "Whiskers",
+        "type": "Cat",
+        "breed": "Tabby",
+        "age": "1 year",
+        "sex": "Female",
+        "description": "An affectionate lap cat who loves sunny windowsills and gentle chin scratches.",
+        "image": "assets/images/pet-whiskers.jpg",
+        "status": "Available",
+        "sponsor_url": "#",
+        "adopt_info_url": "#"
+      },
+      {
+        "name": "Peanut",
+        "type": "Dog",
+        "breed": "Terrier Mix",
+        "age": "3 years",
+        "sex": "Male",
+        "description": "A spirited little guy with a big personality. Loves to play fetch and curl up on the couch.",
+        "image": "assets/images/pet-peanut.jpg",
+        "status": "Available",
+        "sponsor_url": "#",
+        "adopt_info_url": "#"
+      },
+      {
+        "name": "Maple",
+        "type": "Cat",
+        "breed": "Orange Tabby",
+        "age": "6 months",
+        "sex": "Female",
+        "description": "A curious kitten who loves to explore. Very social and gets along with other cats.",
+        "image": "assets/images/pet-maple.jpg",
+        "status": "Available",
+        "sponsor_url": "#",
+        "adopt_info_url": "#"
+      },
+      {
+        "name": "Buddy",
+        "type": "Dog",
+        "breed": "Golden Mix",
+        "age": "4 years",
+        "sex": "Male",
+        "description": "A gentle giant who loves kids and is fully trained. Perfect family companion.",
+        "image": "assets/images/pet-buddy.jpg",
+        "status": "Available",
+        "sponsor_url": "#",
+        "adopt_info_url": "#"
+      },
+      {
+        "name": "Luna",
+        "type": "Cat",
+        "breed": "Domestic Shorthair",
+        "age": "2 years",
+        "sex": "Female",
+        "description": "A calm, sweet girl who loves blankets and being cozy. Great for a quieter household.",
+        "image": "assets/images/pet-luna.jpg",
+        "status": "Available",
+        "sponsor_url": "#",
+        "adopt_info_url": "#"
+      }
+    ]
+  },
+
+  "help": {
+    "hero_title": "How to Help",
+    "hero_subtitle": "It takes an entire community to do the important work accomplished by Furkid Rescue. Learn about how you can join in and help us rescue more dogs and cats!",
+    "ways_to_help": [
+      {
+        "icon": "home",
+        "color": "teal",
+        "title": "Foster",
+        "description": "Open your home temporarily to a pet in need. We provide all supplies, food, and medical care. You provide the love!",
+        "link_text": "Apply to Foster",
+        "link_url": "#"
+      },
+      {
+        "icon": "heart",
+        "color": "coral",
+        "title": "Adopt",
+        "description": "Give a rescued dog or cat their forever home. Our adoption process is designed to find the perfect match for both you and your new family member.",
+        "link_text": "View Available Pets",
+        "link_url": "adopt.html"
+      },
+      {
+        "icon": "dollar",
+        "color": "yellow",
+        "title": "Donate",
+        "description": "Every dollar goes directly to medical care, food, supplies, and transportation for our rescued animals. We are a 501(c)(3) non-profit.",
+        "link_text": "Make a Donation",
+        "link_url": "donate.html"
+      },
+      {
+        "icon": "hand-heart",
+        "color": "pink",
+        "title": "Volunteer",
+        "description": "Help at adoption events, assist with transport, photograph our animals, or lend your professional skills to support the rescue.",
+        "link_text": "Get Involved",
+        "link_url": "#"
+      },
+      {
+        "icon": "share",
+        "color": "teal",
+        "title": "Share & Spread the Word",
+        "description": "Follow us on social media and share our posts. You never know who might be looking for their next pet — sharing saves lives!",
+        "link_text": "Follow on Instagram",
+        "link_url": "#"
+      },
+      {
+        "icon": "bag",
+        "color": "coral",
+        "title": "Wishlist & Supplies",
+        "description": "We always need supplies like food, litter, leashes, crates, and cleaning supplies. Check our Amazon Wishlist to see what we need most.",
+        "link_text": "View Wishlist",
+        "link_url": "#"
+      }
+    ],
+    "foster_section_title": "Become a Foster Family",
+    "foster_section_paragraphs": [
+      "Fostering is the backbone of our rescue. When you open your home to a foster pet, you're directly saving a life and making room for another animal to be rescued.",
+      "We cover all costs including veterinary care, food, and supplies. All you need to bring is a loving environment and some patience while your foster pet adjusts."
+    ],
+    "foster_benefits": [
+      "All medical expenses covered",
+      "Food and supplies provided",
+      "Ongoing support from our team",
+      "Flexible time commitments"
+    ],
+    "foster_button_text": "Apply to Foster",
+    "foster_button_url": "#",
+    "foster_image": "assets/images/foster.jpg",
+    "foster_image_alt": "Foster puppies playing outdoors",
+
+    "contact_banner_title": "Questions? We'd Love to Hear From You",
+    "contact_banner_subtitle": "Reach out to us anytime — we're happy to answer questions about fostering, adopting, volunteering, or donating.",
+    "contact_banner_button": "Contact Us",
+    "contact_banner_url": "#"
+  },
+
+  "about": {
+    "hero_title": "About Furkid Rescue",
+    "hero_subtitle": "A no-kill rescue that helps dogs and cats go from life-threatening situations to homes where they will be given the love and care they deserve.",
+    "story_image": "assets/images/about-city.jpg",
+    "story_image_alt": "Pittsburgh city skyline",
+    "story_title": "Our Story",
+    "story_paragraphs": [
+      "Furkid Rescue was founded with a simple but powerful mission: to save the lives of dogs and cats who have nowhere else to turn. Based in Pittsburgh, Western Pennsylvania, we are a 501(c)(3) non-profit, foster-based rescue organization.",
+      "We rescue animals from shelters facing euthanasia, owner surrenders, and other life-threatening situations. Once in our care, every animal receives full veterinary treatment, is spayed or neutered, and is placed in a loving foster home while they await adoption.",
+      "Our foster-based model means that each pet lives in a real home environment, allowing us to provide personalized care and gain invaluable insights into their temperament — ensuring better matches with adoptive families."
+    ],
+    "values_title": "Our Values",
+    "values_subtitle": "Everything we do is guided by these core principles.",
+    "values": [
+      {
+        "icon": "heart",
+        "color": "coral",
+        "title": "Compassion First",
+        "description": "Every animal deserves kindness. We treat each rescue with the care and dignity they deserve."
+      },
+      {
+        "icon": "shield",
+        "color": "teal",
+        "title": "No-Kill Commitment",
+        "description": "We never euthanize for space or time. Every animal stays in our care until they find their forever home."
+      },
+      {
+        "icon": "home",
+        "color": "yellow",
+        "title": "Foster-Based Care",
+        "description": "Our animals live in real homes, not shelters. This allows us to truly understand each pet's needs and personality."
+      },
+      {
+        "icon": "users",
+        "color": "pink",
+        "title": "Community Driven",
+        "description": "We rely on the generosity of our community — foster families, volunteers, and donors make our work possible."
+      }
+    ],
+    "process_title": "How Our Rescue Works",
+    "process_steps": [
+      { "number": "01", "title": "Rescue", "description": "We pull animals from life-threatening situations including shelters, owner surrenders, and strays." },
+      { "number": "02", "title": "Rehabilitate", "description": "Every pet receives full veterinary care — vaccinations, spay/neuter, and any needed treatment." },
+      { "number": "03", "title": "Foster", "description": "Pets are placed in loving foster homes where they can decompress and show their true personality." },
+      { "number": "04", "title": "Adopt", "description": "We carefully match each pet with their ideal forever family through our adoption process." }
+    ],
+    "mission_cta_title": "Join Our Mission",
+    "mission_cta_description": "Whether you're looking to adopt, foster, volunteer, or donate, there's a place for you at Furkid Rescue.",
+    "mission_cta_button": "Get Involved",
+    "mission_cta_url": "help.html"
+  },
+
+  "happy_tails": {
+    "hero_title": "Happy Tails",
+    "hero_subtitle": "Read what our adopters have to say about their experience rescuing dogs and cats from Furkid Rescue.",
+    "stories": [
+      {
+        "pet_name": "Max",
+        "adopter": "The Johnson Family",
+        "date": "March 2026",
+        "quote": "Max has completely changed our family. He was shy at first, but now he's the most loving, goofy dog. We can't imagine life without him. Thank you Furkid Rescue!",
+        "image": "assets/images/tail-max.jpg"
+      },
+      {
+        "pet_name": "Olive",
+        "adopter": "Sarah M.",
+        "date": "February 2026",
+        "quote": "Olive is the sweetest cat I've ever had. She sleeps on my pillow every night and greets me at the door. Adopting from Furkid Rescue was the best decision I've ever made.",
+        "image": "assets/images/tail-olive.jpg"
+      },
+      {
+        "pet_name": "Charlie",
+        "adopter": "The Williams Family",
+        "date": "January 2026",
+        "quote": "Charlie came to us nervous and underweight. Within weeks he was running around the backyard with our kids. He's gained 15 pounds of pure happiness!",
+        "image": "assets/images/tail-charlie.jpg"
+      },
+      {
+        "pet_name": "Daisy",
+        "adopter": "Mike & Jen",
+        "date": "December 2025",
+        "quote": "Daisy has the biggest personality in the tiniest body. She loves car rides, belly rubs, and stealing socks. She brings so much joy to our home every single day.",
+        "image": "assets/images/tail-daisy.jpg"
+      },
+      {
+        "pet_name": "Milo",
+        "adopter": "Rachel K.",
+        "date": "November 2025",
+        "quote": "I was a first-time cat owner and Furkid Rescue made the process so easy. Milo is the perfect companion — calm, affectionate, and absolutely gorgeous.",
+        "image": "assets/images/tail-milo.jpg"
+      },
+      {
+        "pet_name": "Rosie",
+        "adopter": "The Patel Family",
+        "date": "October 2025",
+        "quote": "Rosie was our foster fail — we just couldn't let her go! She's brought so much love into our home. The whole family is obsessed with her.",
+        "image": "assets/images/tail-rosie.jpg"
+      }
+    ],
+    "share_title": "Share Your Happy Tail!",
+    "share_subtitle": "Did you adopt from Furkid Rescue? We'd love to hear your story and feature your furkid on our page!",
+    "share_button": "Submit Your Story",
+    "share_url": "#"
+  },
+
+  "donate": {
+    "hero_title": "Support Our Mission",
+    "hero_subtitle": "Furkid Rescue is a 501(c)(3) non-profit organization. Your donation helps us rescue more dogs and cats, provide medical treatment, and find them loving homes. Every dollar makes a difference.",
+    "donation_card_title": "Make a Donation",
+    "donation_card_subtitle": "Choose an amount below or enter a custom amount. All donations are tax-deductible.",
+    "donation_amounts": ["$10", "$25", "$50", "$100", "$250", "Other"],
+    "paypal_button_text": "Donate via PayPal",
+    "paypal_note": "You will be redirected to PayPal to complete your donation securely.",
+    "other_ways_title": "Other Ways to Give",
+    "other_ways": [
+      { "label": "Venmo:", "value": "@FurkidRescue", "url": "" },
+      { "label": "Zelle:", "value": "donate@furkidrescue.org", "url": "" },
+      { "label": "Check:", "value": "Mail to Furkid Rescue, Pittsburgh, PA", "url": "" },
+      { "label": "", "value": "Amazon Wishlist", "url": "#" }
+    ],
+    "impact_title": "Your Impact",
+    "impact_items": [
+      {
+        "icon": "stethoscope",
+        "color": "coral",
+        "title": "Veterinary Care",
+        "price": "$150",
+        "description": "Covers spay/neuter, vaccinations, and a full health check for one pet."
+      },
+      {
+        "icon": "utensils",
+        "color": "teal",
+        "title": "Food & Supplies",
+        "price": "$50",
+        "description": "Provides a month of food, litter, and basic supplies for a foster pet."
+      },
+      {
+        "icon": "truck",
+        "color": "yellow",
+        "title": "Transport & Rescue",
+        "price": "$75",
+        "description": "Helps cover the cost of pulling a pet from a shelter and transporting them to a foster home."
+      },
+      {
+        "icon": "heart",
+        "color": "pink",
+        "title": "Emergency Medical",
+        "price": "$300+",
+        "description": "Covers emergency surgeries, heartworm treatment, or other critical medical needs."
+      }
+    ],
+    "sponsor_image": "assets/images/sponsor.jpg",
+    "sponsor_image_alt": "Person hugging a dog outdoors",
+    "sponsor_title": "Sponsor a Specific Furkid",
+    "sponsor_description": "Want to help a specific pet? Visit our adopt page to see available pets and contribute directly to their care through individual fundraiser links.",
+    "sponsor_button": "View Available Pets",
+    "sponsor_url": "adopt.html",
+    "tax_notice_bold": "Furkid Rescue is a registered 501(c)(3) non-profit organization.",
+    "tax_notice_text": "All donations are tax-deductible to the extent allowed by law. You will receive a donation receipt for your records. EIN: XX-XXXXXXX"
+  }
+}
