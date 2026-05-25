@@ -90,17 +90,31 @@ If you own `furkidrescue.org`:
 
 You don't need a developer. You have two options.
 
-### Easiest: use ChatGPT
+### Easiest: use ChatGPT + GitHub’s website editor
 
-1. Open **CONTENT-GUIDE.xlsx** in Excel.
-2. Find the tab for the page you want to update (e.g. "Home Page").
-3. In the **yellow "Your Changes" column**, type your new text next to the current version.
-4. Save the workbook.
-5. Open ChatGPT. Attach **content.json** (download it from GitHub) and **CONTENT-GUIDE.xlsx**.
-6. Paste the **"Prompt 1 — General edits"** from the ChatGPT Prompts tab.
-7. ChatGPT returns a new `content.json`. Copy everything inside the JSON code block.
-8. On GitHub, open `content.json`, click the pencil icon, delete everything, paste the new content, click **Commit changes**.
-9. Wait 1–2 minutes. Your site is updated.
+You do not need to install anything. You will use ChatGPT to rewrite the website content file, then paste the updated version directly into GitHub.
+
+1. Open **CONTENT-GUIDE.xlsx** in Excel, Google Sheets, or another spreadsheet app.
+2. Find the tab for the page you want to update, such as **Home Page** or **Adopt - Pets**.
+3. In the yellow **Your Changes** column, type the new text you want on the website.
+4. Save the spreadsheet.
+
+5. Go to your GitHub repository in a web browser.
+6. Click the file named **content.json**.
+7. Click the download button or copy the full contents of the file.
+8. Open ChatGPT.
+9. Attach **CONTENT-GUIDE.xlsx** and paste or attach the current **content.json**.
+10. Paste the prompt from the **ChatGPT Prompts** tab in the spreadsheet.
+11. ChatGPT will give you a new version of **content.json**.
+
+12. Go back to GitHub and open **content.json** again.
+13. Click the pencil icon to edit the file.
+14. Delete everything currently in the file.
+15. Paste the new **content.json** from ChatGPT.
+16. Click **Commit changes**.
+17. Wait 1–2 minutes, then refresh the website.
+
+Tip: If something looks wrong, go back to GitHub, open **content.json**, click **History**, and restore the previous version.
 
 ### Direct edit (if you're comfortable)
 
