@@ -50,13 +50,21 @@ You need a free GitHub account. If you don't have one, sign up at [github.com](h
 3. Choose **Public**.
 4. Click **Create repository**.
 
-### Step 2. Upload this folder
+### Step 2. Create a Copy 
+
+1. On the GitHub page, scroll to the top and click the green <> Code button.
+2. In the menu that opens, click Download ZIP.
+3. A .zip file will download to your computer, usually in your Downloads folder.
+4. Open your Downloads folder, then open the .zip file: On many computers, you can double-click the .zip file. On Windows, you may need to right-click → Extract All. On Mac, double-clicking usually creates a normal folder automatically.
+5. After it opens or extracts, you should see a regular folder containing the website files. You will use this folder in the next step.
+
+### Step 3. Upload this folder
 
 1. On the repo's home page, click **uploading an existing file**.
-2. Drag the **entire contents** of this folder into the upload area. (Drag the files and the `assets` folder, not the `furkid-rescue` folder itself.)
+2. Drag the **entire contents** of the folder from the prev step into the upload area. (Drag the files and the `assets` folder, not the `furkid-rescue` folder itself.)
 3. Scroll down and click **Commit changes**.
 
-### Step 3. Turn on GitHub Pages
+### Step 4. Turn on GitHub Pages
 
 1. On the repo, click **Settings** (top tab).
 2. On the left, click **Pages**.
@@ -66,7 +74,7 @@ You need a free GitHub account. If you don't have one, sign up at [github.com](h
 
    `https://YOUR-USERNAME.github.io/furkid-rescue/`
 
-### Step 4. (Optional) Connect a custom domain
+### Step 5. (Optional) Connect a custom domain
 
 If you own `furkidrescue.org`:
 
